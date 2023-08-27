@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Danni Wu"
 description              : "Ph.D. candidate in Biostatistics, New York University"
-repository               : "dannidanniwu/danniwu.github.io"
+repository               : "dannidanniwu/dannidanniwu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Danni Wu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Ph.D. candidate, New York University"
   location         : "New York, USA"
   employer         :
   pubmed           : 
