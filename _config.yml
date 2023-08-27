@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ToOwt1kAAAAJ&hl"
   email            : "dw2625@nyu.edu"
-  researchgate     : "https://www.researchgate.net/scientific-contributions/Danni-Wu-2197027215"
+  researchgate     : #"https://www.researchgate.net/scientific-contributions/Danni-Wu-2197027215"
   uri              :
   bitbucket        :
   codepen          :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-6989-735X"
+  orcid            : #"https://orcid.org/my-orcid?orcid=0000-0002-6989-735X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
