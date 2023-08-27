@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ToOwt1kAAAAJ&hl"
   email            : "dw2625@nyu.edu"
-  researchgate     : #"https://www.researchgate.net/scientific-contributions/Danni-Wu-2197027215"
+  researchgate     : # e.g., "https://www.researchgate.net/scientific-contributions/Danni-Wu-2197027215"
   uri              :
   bitbucket        :
   codepen          :
