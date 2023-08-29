@@ -47,9 +47,9 @@ randomized clinical trial](https://jamanetwork.com/journals/jamainternalmedicine
 -	``Statistics in Bioscience 2023``[Bayesian index models for heterogeneous treatment effects on a 
 binary outcome](https://link.springer.com/article/10.1007/s12561-023-09370-0). Hyung G Park, **Danni Wu**, Eva Petkova, Thaddeus Tarpey, R Todd Ogden.
 
--	``Statistics in Bioscience 2023``[Research on the use of electronic health records in hospitals](http://www.cnki.com.cn/Article/CJFDTotal-WMIA201889160.html). **Danni Wu**, Wentao Wu, Wenjuan Luo.
+-	``World Latest Medicine Information 2018``[Research on the use of electronic health records in hospitals](https://xueshu.baidu.com/usercenter/paper/show?paperid=30d6be5bdef4ebd9c4de90869d871500&sc_from=pingtai4&cmd=paper_forward&title=%E7%94%B5%E5%AD%90%E7%97%85%E5%8E%86%E5%9C%A8%E5%8C%BB%E9%99%A2%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%E7%A0%94%E7%A9%B6&wise=0). **Danni Wu**, Wentao Wu, Wenjuan Luo.
   
--	``China Health Industry 2018`` [The impact of health information system on the quality of healthcare](http://www.cnki.com.cn/Article/CJFDTotal-WSCY201832080.html). **Danni Wu**, Wentao Wu, Wenjuan Luo.
+-	``China Health Industry 2018`` [The impact of health information system on the quality of healthcare](https://xueshu.baidu.com/usercenter/paper/show?paperid=111n0p70h33g0g20nu250am096234055&sc_from=pingtai4&cmd=paper_forward&title=%E4%BF%A1%E6%81%AF%E5%8C%96%E5%BB%BA%E8%AE%BE%E4%B8%8E%E5%8C%BB%E7%96%97%E6%9C%8D%E5%8A%A1%E8%B4%A8%E9%87%8F%E7%9A%84%E5%85%B3%E7%B3%BB%E7%A0%94%E7%A9%B6&wise=0). **Danni Wu**, Wentao Wu, Wenjuan Luo.
 
  **Under review/Submitted**
 -	``Under review BMC Medical Research Methodology`` A Bayesian multivariate hierarchical model for developing a treatment 
