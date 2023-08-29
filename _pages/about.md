@@ -80,7 +80,7 @@ high-resolution deep tissue imaging. Mok A, Wang T, Zhao S, Kolkman K, **Wu D**,
 monitoring](https://drive.google.com/file/d/1BH6rfd2QnMy3n4BvI8Y3i8wENP18MYot/view?usp=sharing)
 
 # 💻 Internships
-- *2023.06 - 2023.08*, Biostatistics and Statistical Programming in the Oncology group, **Moderna**, Boston
+- *2023.06 - 2023.08*, Biostatistics and Statistical Programming Intern in the Oncology group, **Moderna**, Boston
 
 # 🎖 Honors and Awards
 - Meritorious Award in the Mathematical Contest in Modeling Competition (World Ranking: 80/7636) 
