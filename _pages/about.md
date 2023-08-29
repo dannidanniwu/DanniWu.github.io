@@ -26,37 +26,63 @@ I interned at Moderna in 2023 summer, focused on designing a Bayesian seamless P
 My research interests include Bayesian Statistics, Precision Medicine, Clinical Trial Design, and Statistical Computing. I have been published in journals such as [JAMA Internal Medicine](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2787090), [JAMA Network Open](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2788377), [BMC Medical Research Methodology](https://link.springer.com/article/10.1186/s12874-022-01813-4) and [Statistics in Medicine](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2788377).
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📝 Papers 
 
-# 📝 Publications 
+**Publications**
+-	``BMC Medical Research Methodology 2023``[Developing a Bayesian hierarchical model for a prospective individual patient data 
+meta-analysis with continuous monitoring](https://link.springer.com/article/10.1186/s12874-022-01813-4). **Danni Wu**, Keith S Goldfeld, Eva Petkova. 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+-	``Statistics in Medicine 2021``(<span style="color:red">[Top downloaded article certificate](https://drive.google.com/file/d/1I271zcZg9YWQm33Xo-86Y1Pq7lLxQJ-B/view)</span>) [Prospective individual patient data meta-analysis: evaluating convalescent plasma for
+COVID-19](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.9115). Keith S Goldfeld, **Danni Wu**, Thaddeus Tarpey, Mengling Liu, Yinxiang Wu, Andrea B Troxel, Eva Petkova. 
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+-	``JAMA Network Open 2022`` [Development and validation of a treatment benefit index to identify hospitalized patients 
+with COVID-19: who may benefit from convalescent plasma](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2788376). Hyung Park, Thaddeus Tarpey, Mengling Liu, Keith Goldfeld, Yinxiang Wu, **Danni Wu**, et al.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+-	``JAMA Network Open 2022`` [Association of convalescent plasma treatment with clinical status in patients hospitalized 
+with COVID-19: a meta-analysis](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2788377). Andrea B Troxel, Eva Petkova, Keith Goldfeld, Mengling Liu, Thaddeus Tarpey, Yinxiang Wu, **Danni Wu** et al. 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+-	``JAMA Internal Medicine 2021`` [Efficacy and safety of COVID-19 convalescent plasma in hospitalized patients: a 
+randomized clinical trial](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2787090). Mila B Ortigoza, Hyunah Yoon, Keith S Goldfeld, Andrea B Troxel, Johanna P Daily, Yinxiang Wu, Yi Li, **Danni Wu**, et al.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-	``Statistics in Bioscience 2023``[Bayesian index models for heterogeneous treatment effects on a 
+binary outcome](https://link.springer.com/article/10.1007/s12561-023-09370-0). Hyung G Park, **Danni Wu**, Eva Petkova, Thaddeus Tarpey, R Todd Ogden.
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-	``Statistics in Bioscience 2023``[Research on the use of electronic health records in hospitals](http://www.cnki.com.cn/Article/CJFDTotal-WMIA201889160.html). **Danni Wu**, Wentao Wu, Wenjuan Luo.
+  
+-	``China Health Industry 2018`` [The impact of health information system on the quality of healthcare](http://www.cnki.com.cn/Article/CJFDTotal-WSCY201832080.html). **Danni Wu**, Wentao Wu, Wenjuan Luo.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+ **Under review/Submitted**
+-	``Under review BMC Medical Research Methodology`` A Bayesian multivariate hierarchical model for developing a treatment 
+benefit index using mixed types of outcomes. **Danni Wu**, Keith S Goldfeld, Eva Petkova, Hyung Park.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-	``Submitted to Nature Neuroscience`` A large field-of-view two- and three-photon microscope for 
+high-resolution deep tissue imaging. Mok A, Wang T, Zhao S, Kolkman K, **Wu D**, et al. 
+
+# 📖 Education
+- *2019.09 - present*, Ph.D. in Biostatistics, Grossman School of Medicine, **New York University**
+- *2017.09 - 2018.12*, M.S. in Biostatistics and Data Science, Weill Cornell Medicine, **Cornell University**
+- *2013.09 - 2017.06*, B.S. in Applied Statistics, **Central University of Finance and Economics**
+
+# 💬 PRESENTATIONS
+
+**Invited talk**
+- *2022.03*, Eastern North American Region (ENAR), [The COMPILE consortium: statistical design innovation and implementation in the time of a pandemic](https://www.enar.org/meetings/spring2022/program/Invited_Preliminary_Program.cfm)
+- *2022.02*, I-HDS Seminar Series in Icahn School of Medicine at Mount Sinai, [Prospective individual patient data meta-analysis: evaluating convalescent plasma for COVID-19](https://drive.google.com/file/d/1kXd09TyRwO6ylaSKIx5mD4WjCy-eeFoL/view?usp=sharing) 
+- *2022.10*, BAYES, [Developing a Bayesian hierarchical model for a prospective individual patient data meta-analysis with continuous monitoring](https://bayes-pharma.org/wp-content/uploads/2022/12/WuDanni-D2-20m-1.pdf)
+
+**Contributed talk**
+- *2021.10*, Women in Statistics and Data Science Conference (WSDS), [Prospective individual patient data meta-analysis: evaluating convalescent plasma for COVID-19 ](https://ww2.amstat.org/meetings/wsds/2021/onlineprogram/AbstractDetails.cfm?AbstractID=309911)
+- *2021.08*, the Joint Statistical Meeting (JSM), [Novel approaches for handling complex data in treatment diagnosis and evaluation](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317263)              
+
+**Poster**
+- *2023.07*, Thomas R. Ten Have Symposium, [Developing a Bayesian hierarchical model for a prospective individual patient data meta-analysis with continuous monitoring ](https://drive.google.com/file/d/1qk6FP9iwJv5sI2EJkX1s-6sK2Pzu7Jka/view?usp=sharing)
+- *2022.06*,  International Society for Bayesian Analysis (ISBA), [Developing a Bayesian hierarchical model for a prospective individual patient data meta-analysis with continuous
+monitoring](https://drive.google.com/file/d/1BH6rfd2QnMy3n4BvI8Y3i8wENP18MYot/view?usp=sharing)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.06 - 2023.08*, Biostatistics and Statistical Programming in the Oncology group, **Moderna**, Boston
+
+# 🎖 Honors and Awards
+- Meritorious Award in the Mathematical Contest in Modeling Competition (World Ranking: 80/7636) 
+- Outstanding Graduate Award, Central University of Finance and Economics
+- Academic Scholarship in Research and Innovation, Central University of Finance and Economics 
