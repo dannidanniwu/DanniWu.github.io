@@ -25,8 +25,13 @@ I interned at Moderna in 2023 summer, focused on designing a Bayesian seamless P
 
 My research interests include Bayesian Statistics, Precision Medicine, Clinical Trial Design, and Statistical Computing. I have been published in journals such as [JAMA Internal Medicine](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2787090), [JAMA Network Open](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2788377), [BMC Medical Research Methodology](https://link.springer.com/article/10.1186/s12874-022-01813-4) and [Statistics in Medicine](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2788377).
 
+# 🎖 Honors and Awards
+- Meritorious Award in the Mathematical Contest in Modeling Competition (World Ranking: 80/7636) 
+- Outstanding Graduate Award, Central University of Finance and Economics
+- Academic Scholarship in Research and Innovation, Central University of Finance and Economics 
 
-# 📝 Papers 
+
+# 📝 Publications
 
 **Publications**
 -	``BMC Medical Research Methodology 2023``[Developing a Bayesian hierarchical model for a prospective individual patient data 
@@ -58,12 +63,12 @@ benefit index using mixed types of outcomes. **Danni Wu**, Keith S Goldfeld, Eva
 -	``Submitted to Nature Neuroscience`` A large field-of-view two- and three-photon microscope for 
 high-resolution deep tissue imaging. Mok A, Wang T, Zhao S, Kolkman K, **Wu D**, et al. 
 
-# 📖 Education
+# 📖 Educations
 - *2019.09 - present*, Ph.D. in Biostatistics, Grossman School of Medicine, **New York University**
 - *2017.09 - 2018.12*, M.S. in Biostatistics and Data Science, Weill Cornell Medicine, **Cornell University**
 - *2013.09 - 2017.06*, B.S. in Applied Statistics, **Central University of Finance and Economics**
 
-# 💬 Presentations
+# 💬 Invited talks
 
 **Invited talk**
 - *2022.03*, Eastern North American Region (ENAR), [The COMPILE consortium: statistical design innovation and implementation in the time of a pandemic](https://www.enar.org/meetings/spring2022/program/Invited_Preliminary_Program.cfm)
@@ -81,8 +86,3 @@ monitoring](https://drive.google.com/file/d/1BH6rfd2QnMy3n4BvI8Y3i8wENP18MYot/vi
 
 # 💻 Internships
 - *2023.06 - 2023.08*, Biostatistics and Statistical Programming Intern in the Oncology group, **Moderna**, Boston
-
-# 🎖 Honors and Awards
-- Meritorious Award in the Mathematical Contest in Modeling Competition (World Ranking: 80/7636) 
-- Outstanding Graduate Award, Central University of Finance and Economics
-- Academic Scholarship in Research and Innovation, Central University of Finance and Economics 
