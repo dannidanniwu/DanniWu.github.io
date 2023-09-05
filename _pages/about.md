@@ -63,7 +63,7 @@ high-resolution deep tissue imaging. Mok A, Wang T, Zhao S, Kolkman K, **Wu D**,
 - *2017.09 - 2018.12*, M.S. in Biostatistics and Data Science, Weill Cornell Medicine, **Cornell University**
 - *2013.09 - 2017.06*, B.S. in Applied Statistics, **Central University of Finance and Economics**
 
-# 💬 PRESENTATIONS
+# 💬 Presentations
 
 **Invited talk**
 - *2022.03*, Eastern North American Region (ENAR), [The COMPILE consortium: statistical design innovation and implementation in the time of a pandemic](https://www.enar.org/meetings/spring2022/program/Invited_Preliminary_Program.cfm)
