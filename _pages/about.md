@@ -69,7 +69,7 @@ benefit index using mixed types of outcomes. **Danni Wu**, Keith S Goldfeld, Eva
 high-resolution deep tissue imaging. Mok A, Wang T, Zhao S, Kolkman K, **Wu D**, et al. 
 
 # 📖 Educations
-- *2019.09 - present*, Ph.D. in Biostatistics, Grossman School of Medicine, **New York University**
+- *2019.09 - 2024.01*, Ph.D. in Biostatistics, Grossman School of Medicine, **New York University**
 - *2017.09 - 2018.12*, M.S. in Biostatistics and Data Science, Weill Cornell Medicine, **Cornell University**
 - *2013.09 - 2017.06*, B.S. in Applied Statistics, **Central University of Finance and Economics**
 
