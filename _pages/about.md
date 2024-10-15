@@ -61,12 +61,6 @@ binary outcome](https://link.springer.com/article/10.1007/s12561-023-09370-0). H
   
 -	``China Health Industry 2018`` [The impact of health information system on the quality of healthcare](https://xueshu.baidu.com/usercenter/paper/show?paperid=111n0p70h33g0g20nu250am096234055&sc_from=pingtai4&cmd=paper_forward&title=%E4%BF%A1%E6%81%AF%E5%8C%96%E5%BB%BA%E8%AE%BE%E4%B8%8E%E5%8C%BB%E7%96%97%E6%9C%8D%E5%8A%A1%E8%B4%A8%E9%87%8F%E7%9A%84%E5%85%B3%E7%B3%BB%E7%A0%94%E7%A9%B6&wise=0). **Danni Wu**, Wentao Wu, Wenjuan Luo.
 
- **Under review/Submitted**
--	``Under review BMC Medical Research Methodology`` A Bayesian multivariate hierarchical model for developing a treatment 
-benefit index using mixed types of outcomes. **Danni Wu**, Keith S Goldfeld, Eva Petkova, Hyung Park.
-
--	``Submitted to Nature Neuroscience`` A large field-of-view two- and three-photon microscope for 
-high-resolution deep tissue imaging. Mok A, Wang T, Zhao S, Kolkman K, **Wu D**, et al. 
 
 # 📖 Educations
 - *2019.09 - 2024.01*, Ph.D. in Biostatistics, Grossman School of Medicine, **New York University**
