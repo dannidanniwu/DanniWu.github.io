@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate at [New York University, Division of Biostatistics](https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/), advised by Professors [Eva Petkova](https://med.nyu.edu/faculty/eva-petkova), [Keith Goldfeld](https://med.nyu.edu/faculty/keith-s-goldfeld) and [Hyung Park](https://med.nyu.edu/faculty/hyung-g-park). 
+I am a Research Associate/Senior Statistician at Harvard University. I have completed my Ph.D. at [New York University, Division of Biostatistics](https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/), advised by Professors [Eva Petkova](https://med.nyu.edu/faculty/eva-petkova), [Keith Goldfeld](https://med.nyu.edu/faculty/keith-s-goldfeld) and [Hyung Park](https://med.nyu.edu/faculty/hyung-g-park). 
 
 I earned my M.S. in Biostatistics and Data Science from [Cornell University, Weill Cornell Medicine](https://gradschool.weill.cornell.edu/biostatistics-and-data-science), under the guidance of Prof. [Samprit Banerjee](https://gradschool.weill.cornell.edu/faculty/samprit-banerjee). Prior to that, I obtained a B.S. in Applied Statistics from the [Central University of Finance and Economics](https://en.cufe.edu.cn/) (中央财经大学), where I was advised by Prof. [Feng Li (李丰)](https://feng.li/).
 
@@ -26,7 +26,7 @@ I interned at Moderna in 2023 summer, focused on designing a Bayesian seamless P
 My research interests include Bayesian Statistics, Precision Medicine, Clinical Trial Design, and Statistical Computing. I have been published in journals such as [JAMA Internal Medicine](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2787090), [JAMA Network Open](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2788377), [BMC Medical Research Methodology](https://link.springer.com/article/10.1186/s12874-022-01813-4) and [Statistics in Medicine](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2788377).
 
 # 🎖 Honors and Awards
-- Meritorious Award in the Mathematical Contest in Modeling Competition (World Ranking: 80/7636) 
+- Meritorious Award in the Mathematical Contest in Modeling Competition 
 - Outstanding Graduate Award, Central University of Finance and Economics
 - Academic Scholarship in Research and Innovation, Central University of Finance and Economics 
 
@@ -34,6 +34,11 @@ My research interests include Bayesian Statistics, Precision Medicine, Clinical 
 # 📝 Publications
 
 **Publications**
+-	``BMC Medical Research Methodology 2023``[A Bayesian multivariate hierarchical model for developing a treatment benefit index using mixed types of outcomes](https://doi.org/10.1186/s12874-024-02333-z)). **Danni Wu**, Keith S Goldfeld, Eva Petkova, Hyung Park.
+
+-	``BMC Infectious Diseases 2024`` [Association between COVID-19 convalescent plasma antibody levels and COVID-
+19 outcomes stratified by clinical status at presentation](https://doi.org/10.1186/s12879-024-09529-0). Hyung Park, Chang Yu, Liise-anne Pirofski, Hyunah Yoon, **Danni Wu**, et al.
+
 -	``BMC Medical Research Methodology 2023``[Developing a Bayesian hierarchical model for a prospective individual patient data 
 meta-analysis with continuous monitoring](https://link.springer.com/article/10.1186/s12874-022-01813-4). **Danni Wu**, Keith S Goldfeld, Eva Petkova. 
 
@@ -84,5 +89,6 @@ high-resolution deep tissue imaging. Mok A, Wang T, Zhao S, Kolkman K, **Wu D**,
 - *2022.06*,  International Society for Bayesian Analysis (ISBA), [Developing a Bayesian hierarchical model for a prospective individual patient data meta-analysis with continuous
 monitoring](https://drive.google.com/file/d/1BH6rfd2QnMy3n4BvI8Y3i8wENP18MYot/view?usp=sharing)
 
-# 💻 Internships
+# 💻 Working experience
+-*2024.03 - present*, Senior Statistician/Research Associate, **Harvard University**, Boston
 - *2023.06 - 2023.08*, Biostatistics and Statistical Programming Intern in the Oncology group, **Moderna**, Boston
