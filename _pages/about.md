@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Research Associate/Senior Statistician at Harvard University. I have completed my Ph.D. at [New York University, Division of Biostatistics](https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/), advised by Professors [Eva Petkova](https://med.nyu.edu/faculty/eva-petkova), [Keith Goldfeld](https://med.nyu.edu/faculty/keith-s-goldfeld) and [Hyung Park](https://med.nyu.edu/faculty/hyung-g-park). 
+I am a Postdoctoral Research Associate at Harvard University. I have completed my Ph.D. at [New York University, Division of Biostatistics](https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/), advised by Professors [Eva Petkova](https://med.nyu.edu/faculty/eva-petkova), [Keith Goldfeld](https://med.nyu.edu/faculty/keith-s-goldfeld) and [Hyung Park](https://med.nyu.edu/faculty/hyung-g-park). 
 
 I earned my M.S. in Biostatistics and Data Science from [Cornell University, Weill Cornell Medicine](https://gradschool.weill.cornell.edu/biostatistics-and-data-science), under the guidance of Prof. [Samprit Banerjee](https://gradschool.weill.cornell.edu/faculty/samprit-banerjee). Prior to that, I obtained a B.S. in Applied Statistics from the [Central University of Finance and Economics](https://en.cufe.edu.cn/) (中央财经大学), where I was advised by Prof. [Feng Li (李丰)](https://feng.li/).
 
